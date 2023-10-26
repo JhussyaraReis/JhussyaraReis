@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 # Olá 👋 Seja Bem-Vindo!
 
+![image](https://github.com/JhussyaraReis/JhussyaraReis/assets/147738753/d88a7355-e4d3-44ba-b746-f082430bfd9e)                           
 
-
-:computer: Programadora Front-End e concurseira!
-
-:books: Estudando
-
+  
+ :computer: Programadora Front-End e concurseira!  
+ :books: Estudando
 
  
 
