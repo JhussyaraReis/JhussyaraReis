@@ -33,7 +33,7 @@ Sou só mais um ser no mundo lutando com programação. E Atualmente estudo Java
 
 - Agradeço a visita.
 
-- Aproveite!! o/
+- Aproveite!!
 
 
   
