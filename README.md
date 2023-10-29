@@ -36,7 +36,7 @@ Sou só mais um ser no mundo lutando com programação. E Atualmente estudo Java
 - Aproveite!!
 
 
-  
+💬  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhussyaraReis&hide_progress=true)
 
 
