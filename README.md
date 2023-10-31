@@ -19,25 +19,34 @@ Here are some ideas to get you started:
 
 # Olá 👋 Seja Bem-Vindo!
 
-![image](https://github.com/JhussyaraReis/JhussyaraReis/assets/147738753/d88a7355-e4d3-44ba-b746-f082430bfd9e)                           
+</br>
 
-  
- :computer: Programadora Front-End e concurseira!  
- :books: Estudando
+<div>
+   <img align="right" src = 'https://i.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.webp' width = 300px>
+  </br>
+  </br>
+<p> :computer: Formada em Ciência da Computação; </p>
+<p>  :books: Programadora Front End em busca do seu lugar ao sol;   </p>
+<p> 🌱: Concurseira  e estudante de back end;</p>
+<p> ⚡ Adoro um bom livro;  </p>
+<p> 😄 E geralmete aceito convites que venham acompanhados de coxinha; </p>
 
+
+</div>
+
+</br>
+</br>
  
 
-## Sobre mim
 
-Sou só mais um ser no mundo lutando com programação. E Atualmente estudo JavaScript e seus mistérios, então não me responsabilizo pelo que você pode encontrar por aqui. Brincadeira 😄, fique à vontade!
+</br>
+</br>
+
 
 - Agradeço a visita.
-
 - Aproveite!!
 
 
-💬  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhussyaraReis&hide_progress=true)
 
 
 
