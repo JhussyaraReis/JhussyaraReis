@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p>  :books: Programadora Front End em busca do seu lugar ao sol;   </p>
 <p> 🌱: Concurseira  e estudante de back end;</p>
 <p> ⚡ Adoro um bom livro;  </p>
-<p> 😄 E geralmete aceito convites que venham acompanhados de coxinha; </p>
+<p> 😄 E geralmente aceito convites que venham acompanhados de coxinha; </p>
 
 
 </div>
