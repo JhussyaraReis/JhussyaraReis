@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   </br>
 <p> :computer: Formada em Ciência da Computação; </p>
 <p>  :books: Programadora Front End em busca do seu lugar ao sol;   </p>
-<p> 🌱: Concurseira  e estudante de back end;</p>
+<p> 🌱: Concurseira  e estudante;</p>
 <p> ⚡ Adoro um bom livro;  </p>
-<p> 😄 E geralmente aceito convites que venham acompanhados de coxinha; </p>
+<p> 😄 geralmente aceito convites que venham acompanhados de coxinha; </p>
 
 
 </div>
